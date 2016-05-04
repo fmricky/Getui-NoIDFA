@@ -9,7 +9,7 @@ GetuiSDK-NoIDFA
 
 ``` pod 'GetuiSDK-NoIDFA' ```
 
-欢迎大家提交Issuse或者PR来提醒更新
+欢迎大家提交Issuse或者PR来提醒更新  
 个推官方从1.4.2起分离了NoIDFA的版本，所以发布该库方便国内的开发者使用。
 
 ###Changelog

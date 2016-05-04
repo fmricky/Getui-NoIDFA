@@ -1,7 +1,7 @@
 {
   "name": "GetuiSDK-NoIDFA",
   "version": "1.4.2",
-  "summary": "Getui SDK No IDFA Version",
+  "summary": "Getui SDK NoIDFA",
   "description": "个推 iOS SDK(无IDFA版本)",
   "homepage": "http://docs.getui.com/mobile/ios/overview/",
   "license": {
