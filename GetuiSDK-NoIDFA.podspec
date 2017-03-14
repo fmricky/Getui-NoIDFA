@@ -25,7 +25,6 @@ Pod::Spec.new do |s|
   s.subspec 'GetuiExtSdk' do |ext|
     ext.source_files = 'GeTuiExtSdk.h'
     ext.framework = 'UserNotifications'
-    ext.version = '1.1.0'
     ext.vendored_libraries = 'libGtExtensionSdk-1.1.0.a'
   end
 end
